@@ -10,6 +10,7 @@ You can use this file as your Minecraft skin to have a 100% random Minecraft ski
 1. Go to [the python website](https;//www.python.org) and install it.
 2. Run "pip install pillow" to install the pillow library.
 3. run the python file from this repository.
+
 Done
 
 I know this isn't much but i made it for myself just for fun and decided to put it on here.
