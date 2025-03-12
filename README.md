@@ -2,15 +2,9 @@
 
 **What is this?**
 
-A python script that assigns every pixel in a 256x256 .png file a random color.
+A python script that assigns every pixel in a 64x64 .png file a random color.
 You can use this file as your Minecraft skin to have a 100% random Minecraft skin.
 
-**How to install?**
-
-1. Go to [the python website](https;//www.python.org) and install it.
-2. Run "pip install pillow" to install the pillow library.
-3. run the python file from this repository.
-
-Done
+You don't have to install any libraries.
 
 I know this isn't much but i made it for myself just for fun and decided to put it on here.
