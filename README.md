@@ -1,4 +1,4 @@
-# Randome-minecraft-skin-generator
+# Random-minecraft-skin-generator
 
 **What is this?**
 
